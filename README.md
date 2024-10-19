@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am 17 years old boy, who study computer science on middle school. Create webs with React. Love sports, gym and reading books.
+I am 18 years old boy, who study computer science on middle school. Create webs with React. Love sports, gym and reading books.
 
 
 ## 🌐 Socials:
